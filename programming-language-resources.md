@@ -48,6 +48,7 @@
     - [Software Construction In Java (video)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
     - [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
     - [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)   
+    - [Effective Java 3rd Edition](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH)
 - Go
     - [The Go programming Language](https://golang.org/)
     - [The Go programming Language (book)](http://www.gopl.io/)
@@ -64,7 +65,7 @@
     - [Quick CSS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C)
     - [CSS Crash Course for absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
 - Javascript
-    - [Lern Javascript in 12 minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
+    - [Learn Javascript in 12 minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
     - [Javascript Beginner Tutorials](https://www.youtube.com/playlist?list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa)
 - Other Language 1
 - Other Language 2
